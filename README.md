@@ -21,12 +21,12 @@ Below are projects of the assignments I have had in uni, hobby projects to learn
 - [Buildy {Tech: Europe} London Hackathon](https://github.com/Abudidayo/Buildy): An agentic PC parts planner built with Next.js, Supabase, and Gemini that helps users generate and refine compatible builds around budget and priorities.
 - [Cycle Nest](https://github.com/Abudidayo/cycle-nest): A RESTful Java service for community item borrowing that manages inventory, search, request status, and route calculation with MongoDB-backed data.
 - [Bayesian Perception](https://github.com/Abudidayo/bayesian_perception-main): A Bayesian perception coursework project modeling the ventriloquist effect with generative simulation and an ideal Bayesian observer.
-- [Verifee](https://github.com/Abudidayo/Verifee): A Discord email verification bot I to streamline getting 2FA and OTP codes from Gmail.
+- [Verifee](https://github.com/Abudidayo/Verifee): A Discord email verification bot I to streamline getting 2FA and OTP codes from Gmail. Deployed on AWS for me and my friends to access eachothers shared services.
 - [LeetCode Archive](https://github.com/Abudidayo/leetcode-archive): An  archive of my LeetCode solutions and attempts to passing DSA interviews.
 
 ### 2025 (2nd Year)
 - [RAG Restaurant Review](https://github.com/Abudidayo/rag-restaurant-review): A RAG practice project using restaurant reviews, vector search, LangChain, ChromaDB, and Ollama for retrieval-based question answering.
-- [InkyPi VCT Viewer](https://github.com/Abudidayo/InkyPi): A VCT upcoming match viewer built on top of the InkyPi e-ink display platform using the VLR API and Raspberry Pi hardware.
+- [InkyPi VCT Viewer](https://github.com/Abudidayo/InkyPi): A VCT match viewer built on top of the InkyPi e-ink display platform using the VLR API and Raspberry Pi hardware. Renders an image of upcoming Valorant Esports matches. 
 - Cloud-load-balancer: Using Docker to simulate a cloud storage solution using a load balancer to distribute traffic between the different services. Used docker-compose to orchestrate the different containers.
 - [Playing Cards PyTorch Model](https://github.com/Abudidayo/playing-cards-pytorch-model): A PyTorch image classification project trained on a playing cards dataset to practice model building, training, and CUDA-based experimentation.
 - [Data Analytics Problems](https://github.com/Abudidayo/Data-Analytics-Problems): A collection of Python data analytics and algorithm exercises covering search, sorting, dynamic programming, text analysis, and performance evaluation.
