@@ -12,7 +12,7 @@
 
 # 🚀 Projects:
 
-Below are projects of the assignments I have had in uni, hobby projects to learn new technologies, or to build solutions for my own use cases:
+Below are projects of the assignments I have had in uni, as well as hobby projects:
 
 ### 2026 (3rd year) 
 - [Mimi - Encode AI London Hackathon](https://github.com/Abudidayo/Mimi): An agentic travel planner built with Next.js and AI tooling that uses specialist agents and generative UI to help users plan trips with low-friction approvals.
