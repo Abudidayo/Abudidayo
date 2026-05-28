@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🔭 In my final year of university studying BsC Computer Science (AI) at [nottingham trent uni](https://www.ntu.ac.uk/)<br>🤝 Juggling various part times, studies, and running [ai robotics society](https://www.airobosoc-ntu.com/) as an elected VP<br>💼 Recently finished doing a final year project on semi auto labeling for semantic segmentation for environment robots<br>💬 Fluent in english, and arabic, advanced in japanese <br>
+### 🔭 Graduating student with a BsC Computer Science (AI) degree at [nottingham trent uni](https://www.ntu.ac.uk/)<br>🤝 Juggling various part times, studies, and running [ai robotics society](https://www.airobosoc-ntu.com/) as an elected VP<br>💼 Recently finished doing a final year project on semi auto labeling for semantic segmentation for environment robots<br>💬 Fluent in english and arabic, advanced in japanese <br>
 
 
 ## 🌐 Socials:
