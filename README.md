@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🔭 Building for Next Verse<br>🤝 Ran [ai robotics society](https://www.airobosoc-ntu.com/) as an elected VP<br>👑 2x hackathon winner<br>💬 Fluent in english and arabic, advanced in japanese <br>
+### 🔭 Building for Next Verse brrr<br>🤝 Created [ai robotics society](https://www.airobosoc-ntu.com/) to bring community together<br>👑 2x hackathon winner<br>💬 Fluent in english and arabic, advanced in japanese <br>
 
 
 ## 🌐 Socials:
