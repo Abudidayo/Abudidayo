@@ -18,7 +18,7 @@ Below are projects of the assignments I have had in uni, as well as hobby projec
 - [ROS2 Nav2](https://github.com/Abudidayo/ntu_robotsim_nav2) and [OctoMap](https://github.com/Abudidayo/ntu_robotsim_octomap) Labs: ROS 2 Humble and Gazebo Fortress labs comparing Nav2 planners and controllers, and building 3D occupancy maps with OctoMap in a maze.
 - [Valorant Chatbot](https://github.com/Abudidayo/valorant-chatbot): A Python chatbot about Valorant that combines AIML, NLP question answering, reasoning, and multi-agent image detection.
 - [Buildy {Tech: Europe} London Hackathon](https://github.com/Abudidayo/Buildy): An agentic PC parts planner built with Next.js, Supabase, and Gemini that helps users generate and refine compatible builds around budget and priorities.
-- [Cycle Nest](https://github.com/Abudidayo/cycle-nest): A RESTful Java service for community item borrowing that manages inventory, search, request status, and route calculation with MongoDB-backed data.
+- 👑 [Cycle Nest](https://github.com/Abudidayo/cycle-nest): A RESTful Java service for community item borrowing that manages inventory, search, request status, and route calculation with MongoDB-backed data.
 - [Bayesian Perception](https://github.com/Abudidayo/bayesian_perception-main): A Bayesian perception coursework project modeling the ventriloquist effect with generative simulation and an ideal Bayesian observer.
 - [Verifee](https://github.com/Abudidayo/Verifee): A Discord email verification bot to streamline getting 2FA and OTP codes from Gmail. Deployed on AWS for me and my friends to access each other's shared services.
 - [LeetCode Archive](https://github.com/Abudidayo/leetcode-archive): An archive of my LeetCode solutions and attempts to passing DSA interviews.
