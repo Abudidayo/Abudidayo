@@ -25,7 +25,7 @@ Below are projects of the assignments I have had in uni, as well as hobby projec
 
 ### 2025 (2nd Year)
 - [RAG Restaurant Review](https://github.com/Abudidayo/rag-restaurant-review): A RAG practice project using restaurant reviews, vector search, LangChain, ChromaDB, and Ollama for retrieval-based question answering.
-- [InkyPi VCT Viewer](https://github.com/Abudidayo/InkyPi): A VCT match viewer built on top of the InkyPi e-ink display platform using the VLR API and Raspberry Pi hardware. Renders an image of upcoming Valorant Esports matches. 
+- 👑 [InkyPi VCT Viewer](https://github.com/Abudidayo/InkyPi): A VCT match viewer built on top of the InkyPi e-ink display platform using the VLR API and Raspberry Pi hardware. Renders an image of upcoming Valorant Esports matches. 
 - Cloud-load-balancer: Using Docker to simulate a cloud storage solution using a load balancer to distribute traffic between the different services. Used docker-compose to orchestrate the different containers.
 - [Playing Cards PyTorch Model](https://github.com/Abudidayo/playing-cards-pytorch-model): A PyTorch image classification project trained on a playing cards dataset to practice model building, training, and CUDA-based experimentation.
 - [Data Analytics Problems](https://github.com/Abudidayo/Data-Analytics-Problems): A collection of Python data analytics and algorithm exercises covering search, sorting, dynamic programming, text analysis, and performance evaluation.
